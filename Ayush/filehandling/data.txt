@@ -1,0 +1,15 @@
+Hi Please share with python learner
+
+1 - text files
+.txt .csv .json .py
+notepad, characters
+
+2 - binary files
+
+open()
+read()
+write()
+close()
+
+
+

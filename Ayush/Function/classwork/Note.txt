@@ -1,0 +1,16 @@
+function
+
+open tea stall
+
+1.Water
+2.Boil 
+3. tea leave
+4. milk
+5. sugar
+6.exit 
+
+default argument
+keyword
+*args and *kargs
+
+

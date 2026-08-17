@@ -1,0 +1,9 @@
+School managament
+
+1. class is a blueprint,object real data holder
+2. int runs automatically object..
+3. self > current object..
+4.instance are unique per objects..
+5.class > shared
+6.method inside class > object data own..
+
