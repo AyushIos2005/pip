@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2>Welcome,{{user}}</h2>
+
+<div class = "card">
+
+    <h3>Resume Analyser</h3>
+
+    <form method="POST" enctype="multipart/form-data">
+
+        <textarea name="resyme" placeholder="Paste your resume(optional)"></textarea>
+        
+    </form>
+
+    
+</div>
+
+
+{% endblock %}

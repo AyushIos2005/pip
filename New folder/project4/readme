@@ -1,0 +1,17 @@
+ibhwss:-
+
+Idea :- using python take user input mobile number and send otp
+what is bulding:-
+python based user-friendly gui that have user input it mobile number send random otp 
+
+How it Work :-
+User have enter the mobile of 10digit.
+
+use:-
+1.print
+2.random modulo.
+3.input() // mobile number.
+4.sender.api
+5.otpsender
+6.exit()
+

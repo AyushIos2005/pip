@@ -1,0 +1,5 @@
+poject6 :
+
+1- setup 
+2- database connection 
+3- 

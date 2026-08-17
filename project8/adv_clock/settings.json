@@ -1,0 +1,7 @@
+{
+    "theme": "light",
+    "time_format": "12",
+    "notifications": true,
+    "hourly_chime": false,
+    "alarm_volume": 100
+}

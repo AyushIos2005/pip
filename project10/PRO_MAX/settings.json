@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "Internet Speed Tester Pro",
+    "version": "1.0.0",
+    "developer": "Vikash",
+    "license": "MIT",
+    "github": "https://github.com/yourusername/internet-speed-tester-pro"
+  },
+  "theme": {
+    "mode": "dark",
+    "accent": "blue",
+    "available_themes": [
+      "dark",
+      "light",
+      "blue",
+      "green",
+      "purple"
+    ]
+  },
+  "units": {
+    "speed_unit": "Mbps",
+    "available_units": [
+      "Mbps",
+      "MBps",
+      "Kbps"
+    ]
+  },
+  "notifications": {
+    "enabled": true,
+    "notify_on_test_complete": true,
+    "notify_on_disconnect": true,
+    "notify_on_export": true,
+    "notify_on_report_saved": true
+  },
+  "auto_save": {
+    "enabled": true,
+    "save_to_history": true
+  },
+  "auto_export": {
+    "enabled": false,
+    "format": "csv",
+    "export_path": "reports/"
+  },
+  "animation": {
+    "speed": "normal",
+    "available_speeds": [
+      "slow",
+      "normal",
+      "fast"
+    ],
+    "gauge_smoothness_ms": 16
+  },
+  "language": {
+    "current": "en",
+    "available_languages": [
+      "en"
+    ]
+  },
+  "network": {
+    "monitor_interval_seconds": 5,
+    "auto_detect_disconnect": true
+  },
+  "history": {
+    "file_path": "history/history.csv",
+    "max_records": 1000
+  },
+  "reports": {
+    "output_path": "reports/",
+    "include_logo": true,
+    "include_graphs": true
+  },
+  "window": {
+    "width": 1280,
+    "height": 800,
+    "min_width": 1024,
+    "min_height": 700,
+    "start_maximized": false
+  },
+  "splash": {
+    "duration_seconds": 3
+  }
+}

@@ -1,0 +1,6 @@
+pymongo>=4.6
+Pillow>=10.0
+reportlab>=4.0
+qrcode>=7.4
+matplotlib>=3.8
+openpyxl>=3.1

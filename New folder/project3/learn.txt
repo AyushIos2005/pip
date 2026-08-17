@@ -1,0 +1,12 @@
+venv
+ all project same packages;
+A > Flask 2
+B > Flask 3
+
+with venv;
+
+pip install flask sqlalchemy pymsql openai PyPDF2
+
+1 - step 's - setup.
+2 - database connection
+3 - 
